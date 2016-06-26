@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\PlayCamera_V1.0.41\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e0c6c690cc2a8222568cc025823b283c964897cf">
+        <dex dex="E:\PlayCamera_V1.0.41\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_dcc5c14942a26d0823bf17d47c63ea539257d8ad.jar" />
+    </item>
+    <item
+        jar="E:\PlayCamera_V1.0.41\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7f145aaa5fc33bce48f0653518939775c82ea66e">
+        <dex dex="E:\PlayCamera_V1.0.41\app\build\intermediates\pre-dexed\debug\instant-run_409a50783ddf15f73ee5f2c422ebd942963786fc.jar" />
+    </item>
+    <item
+        jar="D:\Android_SDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\PlayCamera_V1.0.41\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_bad6c3a5c656435476aa0a2dedd2bb25ef7f4f49.jar" />
+    </item>
+
+</items>

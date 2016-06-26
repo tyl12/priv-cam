@@ -1,0 +1,2 @@
+# trafficam
+based on playcam :)

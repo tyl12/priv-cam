@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CameraActivity" >
+
+    <!--android:background="#FFFFFFFF" -->
+    <TextView
+        android:id="@+id/textview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/overall_large"
+        android:layout_alignParentBottom="true" />
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/top_panel"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        >
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            >
+
+            <org.yanzi.camera.preview.CameraSurfaceView
+                android:id="@+id/camera_surfaceview"
+                android:layout_width="0dip"
+                android:layout_height="0dip"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentBottom="true"
+                />
+
+            <org.yanzi.ui.FaceView
+                android:id="@+id/face_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </FrameLayout>
+    </RelativeLayout>
+
+    <include layout="@layout/camera_top_panel" /> <!-- 顶部控制栏 -->
+
+    <include layout="@layout/camera_bottom_panel" /> <!-- 底部控制栏 -->
+
+</RelativeLayout>

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\PlayCamera_V1.0.41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_face_find_2.9.png",
+        "source": "E:\\PlayCamera_V1.0.41\\app\\src\\main\\res\\drawable-xxhdpi\\ic_face_find_2.9.png"
+    },
+    {
+        "merged": "E:\\PlayCamera_V1.0.41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_switch_camera.png",
+        "source": "E:\\PlayCamera_V1.0.41\\app\\src\\main\\res\\drawable-xxhdpi\\ic_switch_camera.png"
+    },
+    {
+        "merged": "E:\\PlayCamera_V1.0.41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_face_find_1.9.png",
+        "source": "E:\\PlayCamera_V1.0.41\\app\\src\\main\\res\\drawable-xxhdpi\\ic_face_find_1.9.png"
+    },
+    {
+        "merged": "E:\\PlayCamera_V1.0.41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher_icon.png",
+        "source": "E:\\PlayCamera_V1.0.41\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher_icon.png"
+    },
+    {
+        "merged": "E:\\PlayCamera_V1.0.41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_shutter_default.png",
+        "source": "E:\\PlayCamera_V1.0.41\\app\\src\\main\\res\\drawable-xxhdpi\\btn_shutter_default.png"
+    },
+    {
+        "merged": "E:\\PlayCamera_V1.0.41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\overall_large.jpg",
+        "source": "E:\\PlayCamera_V1.0.41\\app\\src\\main\\res\\drawable-xxhdpi\\overall_large.jpg"
+    },
+    {
+        "merged": "E:\\PlayCamera_V1.0.41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\black.png",
+        "source": "E:\\PlayCamera_V1.0.41\\app\\src\\main\\res\\drawable-xxhdpi\\black.png"
+    },
+    {
+        "merged": "E:\\PlayCamera_V1.0.41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_shutter_pressed.png",
+        "source": "E:\\PlayCamera_V1.0.41\\app\\src\\main\\res\\drawable-xxhdpi\\btn_shutter_pressed.png"
+    },
+    {
+        "merged": "E:\\PlayCamera_V1.0.41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\overall_part.jpg",
+        "source": "E:\\PlayCamera_V1.0.41\\app\\src\\main\\res\\drawable-xxhdpi\\overall_part.jpg"
+    }
+]
