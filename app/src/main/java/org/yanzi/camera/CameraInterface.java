@@ -75,6 +75,8 @@ public class CameraInterface {
 					*/
 			Size pictureSize = CamParaUtil.getInstance().getMaxPictureSize(
 					mParams.getSupportedPictureSizes(),previewRate, 800);
+			pictureSize.width=2560;
+			pictureSize.height=1940;
 			Log.d("##@@##", "picture size: " + pictureSize.width + " x " + pictureSize.height);
 			mParams.setPictureSize(pictureSize.width, pictureSize.height);
 			Size previewSize = CamParaUtil.getInstance().getPropPreviewSize(
